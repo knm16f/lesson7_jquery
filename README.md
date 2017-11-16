@@ -10,11 +10,10 @@ Web Application Development
 (Kyla Murphy)
 
 ### Project Description:
-(This assignment is to introduce the jQuery framework, which is a Javascript library.)
+This assignment is to introduce the jQuery framework, which is a Javascript library.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://knm16f.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. (I learned how a jquery coding enviroment works.)
